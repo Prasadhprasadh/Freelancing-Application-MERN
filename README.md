@@ -23,11 +23,11 @@ A freelancing website serves as a digital marketplace where freelancers and clie
 ## Views
 
 <p align="center">
-  <img src="screenshots/capture1.PNG" width="800" />
+  <img src="pics/capture1.PNG" width="800" />
 </p>
 
 <p align="center">
-  <img src="screenshots/capture2.PNG" width="800" />
+  <img src="pics/capture2.PNG" width="800" />
 </p>
 
 ## Setup
