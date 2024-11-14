@@ -38,3 +38,8 @@ A freelancing website serves as a digital marketplace where freelancers and clie
 - Setup mongodb database and add url to `.env` file configuration
 - Run both the applications simultaneously: client `npm run dev` and server `npm run dev`
 - View the application on the browser using `http://localhost:5173`
+
+-Video  
+<p align="center">
+  <img src="Demo-video\Freelance-App-video.mp4" width="800" />
+</p>
