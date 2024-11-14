@@ -40,6 +40,5 @@ A freelancing website serves as a digital marketplace where freelancers and clie
 - View the application on the browser using `http://localhost:5173`
 
 -Video  
-<p align="center">
-  <img src="Demo-video\Freelance-App-video.mp4" width="800" />
-</p>
+
+  Video Link- `https://drive.google.com/file/d/1__f-MDTKPqtXzYg6boV0LZdjqGt4DavF/view`
