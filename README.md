@@ -32,7 +32,7 @@ A freelancing website serves as a digital marketplace where freelancers and clie
 
 ## Setup
 
-  Account:  `https://github.com/Prasadhprasadh/Freelancing-Application-MERN.git`
+  Account:  https://github.com/Prasadhprasadh/Freelancing-Application-MERN.git
 - Change directory into both client and server directories separately: `cd /client && cd /server`
 - Install the required dependencies for both client and server: `npm install`
 - Setup mongodb database and add url to `.env` file configuration
@@ -41,4 +41,4 @@ A freelancing website serves as a digital marketplace where freelancers and clie
 
 -Video  
 
-  Video Link- `https://drive.google.com/file/d/1__f-MDTKPqtXzYg6boV0LZdjqGt4DavF/view`
+  Video Link- https://drive.google.com/file/d/1__f-MDTKPqtXzYg6boV0LZdjqGt4DavF/view
